@@ -1,0 +1,1 @@
+Generate a bullet point summary of the day's events as described in the following transcript. Avoid using first or third person perspectives.
